@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: FightTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: FightTable
+  m_TableCollectionNameGuidString: 077771a969382064eac880ba7b84bb38
+  m_Entries:
+  - m_Id: 7857188864
+    m_Key: health+1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42728632320
+    m_Key: health-1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65478537216
+    m_Key: power+1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92909285376
+    m_Key: power-1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 119002050560
+    m_Key: crime+1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 148794191872
+    m_Key: crime-1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 787360198656
+    m_Key: fight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 867991498752
+    m_Key: escape
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2004215869440
+    m_Key: money
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2006975721472
+    m_Key: health
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2011027419136
+    m_Key: power
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2012579311616
+    m_Key: crime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2628898729984
+    m_Key: enemy_power
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 726179704237719579
+  references:
+    version: 2
+    RefIds:
+    - rid: 726179704237719579
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1690579983608

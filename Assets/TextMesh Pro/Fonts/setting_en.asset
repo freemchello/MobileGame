@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: setting_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: e4a5efe14a979ac418a1055a12726dda, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 67865096192
+    m_Localized: Start Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 655600332800
+    m_Localized: Daily Reward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 661120036864
+    m_Localized: Shed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 667415687168
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 671253475328
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1511880077312
+    m_Localized: Rewarded Ads
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1517026488320
+    m_Localized: Buy Product
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8912565907456
+    m_Localized: Get Reward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9016488177664
+    m_Localized: Reset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11294334988288
+    m_Localized: Continue Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11460353929216
+    m_Localized: Back To Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12623296016384
+    m_Localized: Start Fight
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

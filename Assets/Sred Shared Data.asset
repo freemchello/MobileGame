@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Sred Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Sred
+  m_TableCollectionNameGuidString: b8728c17937e6c844a7c0fe47c7d6f5c
+  m_Entries:
+  - m_Id: 12517060608
+    m_Key: brake
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81525944320
+    m_Key: tire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 102145142784
+    m_Key: transmission
+    m_Metadata:
+      m_Items: []
+  - m_Id: 154628468736
+    m_Key: body
+    m_Metadata:
+      m_Items: []
+  - m_Id: 192926658560
+    m_Key: pipe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 810735054848
+    m_Key: apply
+    m_Metadata:
+      m_Items: []
+  - m_Id: 855454724096
+    m_Key: back
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 726179704237719566
+  references:
+    version: 2
+    RefIds:
+    - rid: 726179704237719566
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1690577822598

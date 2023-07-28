@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: setting Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: setting
+  m_TableCollectionNameGuidString: e4a5efe14a979ac418a1055a12726dda
+  m_Entries:
+  - m_Id: 67865096192
+    m_Key: start_game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 655600332800
+    m_Key: daily_reward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 661120036864
+    m_Key: shed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 667415687168
+    m_Key: settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 671253475328
+    m_Key: exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1511880077312
+    m_Key: rewarded_ads
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1517026488320
+    m_Key: buy_product
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8912565907456
+    m_Key: get_reward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9016488177664
+    m_Key: reset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11294334988288
+    m_Key: continue_game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11460353929216
+    m_Key: back_to_menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12623296016384
+    m_Key: start_fight
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 726179704237719556
+  references:
+    version: 2
+    RefIds:
+    - rid: 726179704237719556
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1690576156248
